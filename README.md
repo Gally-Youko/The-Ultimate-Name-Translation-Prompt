@@ -7,3 +7,4 @@
 **该Prompt适用于GPT-4.请根据情况自行替换该Prompt中的某些字段**
 ## 以下是输出样例
 ![image](https://github.com/Gally-Youko/The-Ultimate-Name-Translation-Prompt/assets/138993330/5958bb1c-799f-48b2-9fbc-2c899a15304f)
+## 喜欢请点一颗星~
